@@ -19,3 +19,6 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/cards](https://hexdocs.pm/cards).
 
+
+![image](https://github.com/mrnaeemdev/Cards-in-Elixir/assets/90679573/3417b5eb-1544-475b-8200-0de3e1e5b30a)
+
