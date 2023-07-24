@@ -20,5 +20,9 @@ and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/cards](https://hexdocs.pm/cards).
 
 
+## Screenshots
+
 ![image](https://github.com/mrnaeemdev/Cards-in-Elixir/assets/90679573/3417b5eb-1544-475b-8200-0de3e1e5b30a)
 
+Reading File
+![image](https://github.com/mrnaeemdev/Cards-in-Elixir/assets/90679573/030293a4-6470-4ccf-b3f1-d1032c766553)
