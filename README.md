@@ -27,3 +27,10 @@ be found at [https://hexdocs.pm/cards](https://hexdocs.pm/cards).
 
 
 ![image](https://github.com/mrnaeemdev/Cards-in-Elixir/assets/90679573/030293a4-6470-4ccf-b3f1-d1032c766553)
+
+
+![image](https://github.com/mrnaeemdev/Cards-in-Elixir/assets/90679573/2113fc42-c6b9-4732-85bf-0b921a11d029)
+
+
+![image](https://github.com/mrnaeemdev/Cards-in-Elixir/assets/90679573/c6ac34b4-7553-44b8-9888-cf717d95772b)
+
